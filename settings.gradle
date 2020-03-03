@@ -1,0 +1,3 @@
+rootProject.name='Swag'
+include ':app'
+include ':naregfrag'
